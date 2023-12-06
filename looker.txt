@@ -1,0 +1,8 @@
+#Renomeie esse arquivo para .ini para utilizar como configuração do Looker
+[Looker]
+# Base URL for API. Do not include /api/* in the url
+base_url=
+# API client id
+client_id=
+# API client secret
+client_secret=
